@@ -1,0 +1,12 @@
+﻿C Programming
+
+1. Translator program - Compiler, Interpreter, Assembler
+2. Token - Keywords, Escape sequence, Punctuators, Operators, Data types, Variables
+3. Input-Output (printf, scanf)
+4. Operator - ত্রিভুজের ক্ষেত্রফল,  রম্বসের ক্ষেত্রফল, সামান্তরিকের ক্ষেত্রফল, সংখ্যার যোগ ও গড়, F<->C } A,F,C
+5. Control statement - Conditional (if, switch) 
+[Example: even/odd, positive/negative, largest/smallest, leap year, small/capital, vowel/consonent];
+Loop control (for, while, do while)
+[Example: 1.2.3...100, 1-->100 Even, 1-->100 Odd, 2+4+6+8+...+100, Prime number, GCD/LCM, Fibonacci series, Multiplication table, Factorial]
+6. Array
+7. Function
